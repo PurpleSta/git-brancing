@@ -1,12 +1,12 @@
 # git-branching
 Learning Git Branching
 
-# define terms
+## define terms
 - Branch
 - 1. Isolation
 - 2. Parallel development
 
-# Git commands
+## Git commands
 1. Create a branch
 '''bash
    git branch "branchname"
