@@ -1,4 +1,4 @@
-# git-brancing
+# git-branching
 Learning Git Branching
 
 # define terms
