@@ -1,2 +1,2 @@
-# git-brancing
+# git-branching
 Learning Git Branching
